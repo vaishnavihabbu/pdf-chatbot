@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://pdf-chatbot-backend-upwa.onrender.com"
 
 # Streamlit UI
 st.set_page_config(page_title="PDF Chatbot", layout="wide")
